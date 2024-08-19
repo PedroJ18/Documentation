@@ -14,7 +14,7 @@ UNIVERSIDAD PERUANA<br>
     **Profesor:**<br>
     **Juan Antonio Flores Moroco**<br>
     **"Informe de Trabajo Final"**<br>
-    **Tema: SphereHub**
+    **Tema: SphereHub**<br>
     **Producto: BookSphere**<br>
     **Agosto 2024**<br>
 
