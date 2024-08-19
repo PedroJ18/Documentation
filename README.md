@@ -171,3 +171,12 @@ UNIVERSIDAD PERUANA<br>
    6.2. [Glossary](#Glossary) <br>
    6.3. [Acronyms](#Acronyms) <br>
    6.4. [Bibliography](#Bibliography)<br>
+   # STUDENT OUTCOME
+El curso contribuye al cumplimiento del Student Outcome ABET: 
+##### ABET – EAC - Student Outcome 3 
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En el siguiente cuadro se describe las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC - Student Outcome 3. 
+
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
+|-------------------------|------------------------|------------------|
+| Comunica oralmente con efectividad a diferentes rangos de audiencia. |                        |                  |
+| Comunica por escrito con efectividad a diferentes rangos de audiencia. |                        |                  |
