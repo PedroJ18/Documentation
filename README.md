@@ -197,6 +197,32 @@ Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias. En 
 #### Lean UX Hypothesis Statements
 #### Lean UX Canvas
 ### Segmentos objetivo
+#### 1. Lectores Ávidos Particulares o Estudiantes:
+
+Este segmento objetivo abarca a lectores apasionados y estudiantes que buscan acceder a una amplia variedad de libros y audiolibros, ya sea por interés personal o para cumplir con sus obligaciones académicas. Estos usuarios valoran la accesibilidad, la diversidad de títulos, y la posibilidad de personalizar su experiencia de lectura. Además, están interesados en interactuar con otros lectores a través de reseñas y comunidades en línea que enriquecen su experiencia literaria.
+
+
+#### 2. Instituciones Educativas:
+El segundo segmento objetivo incluye a instituciones educativas, editoriales y autores independientes que desean distribuir sus obras o recursos educativos de manera más eficiente y llegar a un público más amplio. Estos actores valoran una plataforma que les permita gestionar sus contenidos de forma digital y mantener un control sobre su distribución, con la posibilidad de obtener ingresos a través de suscripciones o ventas directas. Además, les interesa participar en una comunidad donde puedan interactuar con lectores, recibir feedback, y promover sus obras.
+
+
+####  Variable geográfica:
+
+País: Perú
+Ciudad: Zonas urbanas y suburbanas
+    
+Variable demográfica:
+
+Género: Femenino / Masculino
+Ocupación: Estudiantes, lectores, instituciones educativas, editores, autores independientes
+Estado civil: Todos los estados
+Edad y etapa del ciclo de vida: Ciudadanos mayores de 15 años
+
+#### Variable psicográfica:
+
+Nivel Socioeconómico (NSE): Todos los niveles socioeconomicos
+Características de personalidad: Curiosidad, deseo de aprendizaje continuo, aprecio por la lectura, compromiso con la educación y el desarrollo personal.
+
 # Capítulo II: Requirements Elicitation & Analysis
 ## Competidores
 BookSphere enfrenta competencia de plataformas como Google Play Books, Audible y Scribd. Google Play Books proporciona una amplia gama de libros electrónicos y audiolibros, pero carece de una componente social. Audible, especializado en audiolibros, ofrece una gran biblioteca y buena integración con dispositivos Amazon, aunque no cuenta con funciones comunitarias. Scribd ofrece acceso ilimitado a diversos contenidos digitales bajo suscripción, pero su interacción social es limitada. A diferencia de estos competidores, BookSphere destaca por integrar una comunidad literaria activa, permitiendo a los usuarios compartir reseñas y participar en discusiones, lo que enriquece la experiencia del usuario.
