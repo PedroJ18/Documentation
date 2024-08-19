@@ -88,7 +88,7 @@ UNIVERSIDAD PERUANA<br>
    3.3. [Impact Mapping](#Impact-Mapping) <br>
    3.4. [Product Backlog](#Product-Backlog) <br>
 4. [CAPÍTULO IV: Product Design](#Capítulo-IV-Product-Design) <br>
-   4.1. [Style Guidelines](#Style-Guidelines) 
+   4.1. [Style Guidelines](#Style-Guidelines) <br>
       4.1.1. [General Style Guidelines](#General-Style-Guidelines) <br>
       4.1.2. [Web Style Guidelines](#Web-Style-Guidelines) <br>
    4.2. [Information Architecture](#Information-Architecture) <br>
